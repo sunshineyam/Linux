@@ -1,0 +1,5 @@
+查看当前目录:pwd
+创建目录:mkdir
+关闭防火墙:systemctl stop firewalld
+打开防火墙:systemctl start firewalld
+再见:exit
